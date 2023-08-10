@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+div {
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+/* styles.css */
+
+.recipe {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.recipe h3 {
+    margin-top: 0;
+}
+
+.recipe img {
+    max-width: 100%;
+    height: auto;
+}
+
